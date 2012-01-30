@@ -1,0 +1,10 @@
+sdesc: "A spam filter capable of learning"
+ldesc: "A text filter that uses machine learning to classify texts into
+groups. ifile works great as a spam filter. The text is classified by
+a simple statistical method called Naive Bayes, which basically
+considers each text an unordered collection of words and classifies by
+matching the distribution with the most closely matching group
+distribution. Alternatives to ifile are annoyance-filter, bogofilter,
+spamoracle, and spamprobe."
+category: Mail
+requires: libgcc1
