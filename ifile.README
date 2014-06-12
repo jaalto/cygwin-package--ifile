@@ -12,7 +12,7 @@ distribution. Alternatives to ifile are annoyance-filter, bogofilter,
 spamoracle, and spamprobe.
 
 Runtime requirements:
-  libgcc1
+  cygwin
 
 Build requirements:
   quilt

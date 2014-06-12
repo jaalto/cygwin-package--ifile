@@ -7,4 +7,4 @@ matching the distribution with the most closely matching group
 distribution. Alternatives to ifile are annoyance-filter, bogofilter,
 spamoracle, and spamprobe."
 category: Mail
-requires: libgcc1
+requires:
